@@ -1,2 +1,2 @@
-<a href="#" onclick="alert('To access this file, connect to the company VPN and go to: afp://86.90.230.179/Volumes/Resources/12. Mock-ups//Abri1/Abri1.psd')">Abri1</a>
+<a href="file:///Volumes/Projects/Projects%202024/FOB2024/11.%20Dailies/0620/pitch/03A%20-%20State%20-%20wide.mp4" onclick="alert('To access this file, connect to the company VPN and go to: afp://86.90.230.179/Volumes/Resources/12. Mock-ups//Abri1/Abri1.psd')">Abri1</a>
 <a href="#" onclick="alert('To access this file, connect to the company VPN and go to: afp://86.90.230.179/Volumes/Resources/12. Mock-ups//Abri2/Abri2.psd')">Abri2</a>
